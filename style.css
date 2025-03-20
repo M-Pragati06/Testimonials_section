@@ -32,10 +32,8 @@ body {
     padding: 5px; 
     border-radius: 50%;
     background: linear-gradient(45deg, #368782, #b490ca); 
-    min-width: 140px; 
-    max-width:100px;
-    min-height:140px;
-    max-height: 100px; 
+    width: 100px; 
+    height:100px;
     overflow: hidden; 
 }
 
